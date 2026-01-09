@@ -229,3 +229,31 @@ nav .nav-logo img{
     list-style: circle;
     line-height: 30px;
 } 
+#challange-section{
+width: 1360px;
+margin: 0 auto;
+}
+#challange-section .challange-container{
+    margin-top: 50px;
+    padding: 80px 40px;
+    border-radius: 12px;
+    background: rgba(247, 246, 242, 1);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+#challange-section .challange-container h1{
+    font-style: Bold;
+    font-size: 40px;
+    font-weight: 700;
+    /* margin-bottom: 5px; */
+}
+#challange-section .challange-container p{
+    font-style: Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #a19f9f;
+    text-align: center;
+    padding: 15px 0;
+}
