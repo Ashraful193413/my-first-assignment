@@ -180,3 +180,52 @@ nav .nav-logo img{
     line-height: 20px;
     text-align: center;
     margin-top: 20px;
+}
+#brain{
+    width: 1360px;
+    margin-top: 50px;
+    margin: 0 auto;
+}
+#brain .Brain-container{
+    display: flex;
+    padding: 12px;
+    gap: 60px;
+}
+#brain .Brain-container img{
+    
+}
+#brain .brain-describe{
+    padding: 120px 0;
+}
+#brain .brain-describe h3{
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: green;
+    margin-bottom: 10px;
+}
+#brain .brain-describe h1{
+    font-size: 48px;
+    font-weight: 700;
+    font-style: bold;
+    margin-bottom: 10px;
+}
+#brain .brain-describe p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    line-height: 15px;
+    color: #a19f9f;
+    
+} 
+#brain .brain-describe ul{
+    font-size: 16px;
+    font-weight: 900;
+    margin: 0;
+    padding-left: 13px;
+    font-style: Medium;
+} 
+#brain .brain-describe li{
+    list-style: circle;
+    line-height: 30px;
+} 
