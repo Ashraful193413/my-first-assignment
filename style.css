@@ -124,3 +124,59 @@ nav .nav-logo img{
     cursor: pointer; 
     margin-top: 30px;
 }
+#card-section{
+    padding-top: 100px;
+}
+#card-section .card-container{
+    width: 1360px;
+    margin: 0 auto;
+}
+.card-container .card-heading{
+    text-align: center;
+    margin: 0 auto;
+}
+.card-container .card-heading h1{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+.card-container .card-heading p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+#card-section .card-container .card-box{
+    display: flex;
+    gap: 24px;
+}
+.card-box .card{
+    width: 322px;
+    height: 322px;
+    padding: 24px;
+    box-shadow: 0 1px 3px 0 #b3a7a7;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    
+}
+.card img{
+    margin-top: 100px;
+    width: 32px;
+    height: 32px;
+    background: rgba(249, 85, 85, 1);
+    border-radius: 50%;
+}
+.card h3{
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 20px;
+    text-align: center;
+}
+.card p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    margin-top: 20px;
